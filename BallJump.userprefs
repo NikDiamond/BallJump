@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GUI\Menu_GUI.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Scene\playerScript.js">
     <Files>
-      <File FileName="Assets\Scripts\Scene\playerScript.js" Line="27" Column="47" />
+      <File FileName="Assets\Scripts\Scene\playerScript.js" Line="25" Column="48" />
       <File FileName="Assets\Scripts\Scene\bgMoving.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Scene\cameraMoving.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Scene\dieScript.js" Line="1" Column="1" />

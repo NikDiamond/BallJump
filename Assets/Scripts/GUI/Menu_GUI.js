@@ -1,7 +1,6 @@
 ﻿#pragma strict
 
 var style : GUISkin;
-var levels : int = 1;
 var smooth : float = 0.1f;
 
 function OnGUI () {	
@@ -27,7 +26,7 @@ function OnGUI () {
 	//LEVELS
 	butWidth = (Screen.width-100-padding*5*2)/5;
 	butHeight = (Screen.height-200-padding*5*2)/5;
-	for(var i:int=1; i<=levels; i++){
+	for(var i:int=1; i<=(Application.levelCount-1); i++){
 		var moreTen : int = i/10;
 		var zero : String = "0";
 		if(moreTen > 0)
