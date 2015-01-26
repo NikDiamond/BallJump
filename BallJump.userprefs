@@ -1,13 +1,13 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Scene\playerScript.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GUI\GameSetup.js">
     <Files>
-      <File FileName="Assets\Scripts\Scene\playerScript.js" Line="25" Column="48" />
-      <File FileName="Assets\Scripts\Scene\bgMoving.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Scene\playerScript.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Scene\cameraMoving.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GUI\GameSetup.js" Line="58" Column="93" />
       <File FileName="Assets\Scripts\Scene\dieScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Scene\bgMoving.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Scene\GameMaster.js" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\GUI\Menu_GUI.js" Line="47" Column="74" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

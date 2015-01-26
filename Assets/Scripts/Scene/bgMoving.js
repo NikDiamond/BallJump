@@ -1,9 +1,8 @@
 ﻿#pragma strict
 
-private var velocity : float = 0f;
+/*UNUSED
 var smoooth : float = 0.01f;
-
 function Update () {
-	transform.position.x = Mathf.SmoothDamp(transform.position.x, Camera.main.transform.position.x, velocity, smoooth);
-	transform.position.y = Mathf.SmoothDamp(transform.position.y, Camera.main.transform.position.y, velocity, smoooth);
-}
+	transform.position.x = Mathf.Lerp(transform.position.x, Camera.main.transform.position.x, smoooth*Time.deltaTime);
+	transform.position.y = Mathf.Lerp(transform.position.y, Camera.main.transform.position.y, smoooth*Time.deltaTime);
+}*/

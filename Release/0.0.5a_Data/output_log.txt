@@ -1,0 +1,35 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 5700 Series (ID=0x68b8)
+    Vendor:   ATI
+    VRAM:     1012 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Files\Projects\_Unity\BallJump\Release\0.0.5a_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Files\Projects\_Unity\BallJump\Release\0.0.5a_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Files\Projects\_Unity\BallJump\Release\0.0.5a_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Files\Projects\_Unity\BallJump\Release\0.0.5a_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.055 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: D:\Files\Projects\_Unity\BallJump\Release\0.0.5a_Data\Managed\Boo.Lang.dll (this message is harmless)
+UnloadTime: 39.374897 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 256.
+Total: 8.500351 ms (FindLiveObjects: 0.059408 ms CreateObjectMapping: 0.036910 ms MarkObjects: 0.300558 ms  DeleteObjects: 6.274110 ms)
+
+UnloadTime: 5.960545 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 249.
+Total: 1.984387 ms (FindLiveObjects: 0.036207 ms CreateObjectMapping: 0.037262 ms MarkObjects: 0.304073 ms  DeleteObjects: 0.008788 ms)
+
+UnloadTime: 6.633374 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 207.
+Total: 1.916894 ms (FindLiveObjects: 0.031989 ms CreateObjectMapping: 0.060463 ms MarkObjects: 0.317080 ms  DeleteObjects: 0.014764 ms)
+
