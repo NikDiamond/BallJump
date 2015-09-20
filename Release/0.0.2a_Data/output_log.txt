@@ -10,23 +10,17 @@ Platform assembly: D:\Files\Projects\_Unity\BallJump\Release\0.0.2a_Data\Managed
 Loading D:\Files\Projects\_Unity\BallJump\Release\0.0.2a_Data\Managed\UnityEngine.dll into Unity Child Domain
 Platform assembly: D:\Files\Projects\_Unity\BallJump\Release\0.0.2a_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
 Loading D:\Files\Projects\_Unity\BallJump\Release\0.0.2a_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.192 seconds
+- Completed reload, in  0.060 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
-97.98589
+36.26986
  
 (Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
 
-UnloadTime: 0.994830 ms
+UnloadTime: 26.456152 ms
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 219.
-Total: 1.992120 ms (FindLiveObjects: 0.051323 ms CreateObjectMapping: 0.035856 ms MarkObjects: 0.271381 ms  DeleteObjects: 0.011952 ms)
-
-UnloadTime: 1.108725 ms
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 217.
-Total: 1.814949 ms (FindLiveObjects: 0.031637 ms CreateObjectMapping: 0.036207 ms MarkObjects: 0.273841 ms  DeleteObjects: 0.009139 ms)
+Total: 1.828307 ms (FindLiveObjects: 0.038668 ms CreateObjectMapping: 0.035153 ms MarkObjects: 0.263647 ms  DeleteObjects: 0.013006 ms)
 

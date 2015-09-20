@@ -10,25 +10,37 @@ Platform assembly: D:\Files\Projects\_Unity\BallJump\Release\0.0.4a_Data\Managed
 Loading D:\Files\Projects\_Unity\BallJump\Release\0.0.4a_Data\Managed\UnityEngine.dll into Unity Child Domain
 Platform assembly: D:\Files\Projects\_Unity\BallJump\Release\0.0.4a_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
 Loading D:\Files\Projects\_Unity\BallJump\Release\0.0.4a_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.159 seconds
+- Completed reload, in  0.057 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 Platform assembly: D:\Files\Projects\_Unity\BallJump\Release\0.0.4a_Data\Managed\Boo.Lang.dll (this message is harmless)
-UnloadTime: 0.993775 ms
+UnloadTime: 0.388089 ms
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 239.
-Total: 2.023406 ms (FindLiveObjects: 0.055541 ms CreateObjectMapping: 0.036559 ms MarkObjects: 0.286496 ms  DeleteObjects: 0.113544 ms)
+Total: 0.963896 ms (FindLiveObjects: 0.020388 ms CreateObjectMapping: 0.018279 ms MarkObjects: 0.165922 ms  DeleteObjects: 0.052378 ms)
+
+UnloadTime: 0.587407 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 233.
+Total: 0.872146 ms (FindLiveObjects: 0.016170 ms CreateObjectMapping: 0.018279 ms MarkObjects: 0.157485 ms  DeleteObjects: 0.004921 ms)
+
+UnloadTime: 0.604983 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 233.
+Total: 0.914681 ms (FindLiveObjects: 0.017224 ms CreateObjectMapping: 0.022146 ms MarkObjects: 0.176468 ms  DeleteObjects: 0.005272 ms)
 
 Level '' (2) couldn't be loaded because it has not been added to the build settings.
 To add a level to the build settings use the menu File->Build Settings...
  
 (Filename:  Line: 269)
 
-UnloadTime: 1.115756 ms
+UnloadTime: 0.371215 ms
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 233.
-Total: 1.856781 ms (FindLiveObjects: 0.044995 ms CreateObjectMapping: 0.036559 ms MarkObjects: 0.303370 ms  DeleteObjects: 0.011600 ms)
+Total: 0.528350 ms (FindLiveObjects: 0.009491 ms CreateObjectMapping: 0.012655 ms MarkObjects: 0.110732 ms  DeleteObjects: 0.003163 ms)
 

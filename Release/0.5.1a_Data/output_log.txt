@@ -1,0 +1,30 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 5700 Series (ID=0x68b8)
+    Vendor:   ATI
+    VRAM:     1012 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Files\Projects\_Unity\BallJump\Release\0.5.1a_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Files\Projects\_Unity\BallJump\Release\0.5.1a_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Files\Projects\_Unity\BallJump\Release\0.5.1a_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Files\Projects\_Unity\BallJump\Release\0.5.1a_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.057 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: D:\Files\Projects\_Unity\BallJump\Release\0.5.1a_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: D:\Files\Projects\_Unity\BallJump\Release\0.5.1a_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+UnloadTime: 40.449860 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 200.
+Total: 2.078597 ms (FindLiveObjects: 0.053784 ms CreateObjectMapping: 0.036559 ms MarkObjects: 0.415508 ms  DeleteObjects: 0.034449 ms)
+
+UnloadTime: 0.938233 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 193.
+Total: 2.425205 ms (FindLiveObjects: 0.030231 ms CreateObjectMapping: 0.036559 ms MarkObjects: 0.448903 ms  DeleteObjects: 0.033043 ms)
+

@@ -1,0 +1,34 @@
+Initialize engine version: 4.6.2f1 (bd99309c2ad7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 5700 Series (ID=0x68b8)
+    Vendor:   ATI
+    VRAM:     1012 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Files\Dropbox\Projects\BallJump\Release\0.8a_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Files\Dropbox\Projects\BallJump\Release\0.8a_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Files\Dropbox\Projects\BallJump\Release\0.8a_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Files\Dropbox\Projects\BallJump\Release\0.8a_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Files\Dropbox\Projects\BallJump\Release\0.8a_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Files\Dropbox\Projects\BallJump\Release\0.8a_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.150 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: D:\Files\Dropbox\Projects\BallJump\Release\0.8a_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Files\Dropbox\Projects\BallJump\Release\0.8a_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Files\Dropbox\Projects\BallJump\Release\0.8a_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: D:\Files\Dropbox\Projects\BallJump\Release\0.8a_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+UnloadTime: 5.766145 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 309.
+Total: 1.111889 ms (FindLiveObjects: 0.015467 ms CreateObjectMapping: 0.014061 ms MarkObjects: 0.272787 ms  DeleteObjects: 0.259780 ms)
+
+UnloadTime: 1.089391 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 304.
+Total: 0.934718 ms (FindLiveObjects: 0.014412 ms CreateObjectMapping: 0.021794 ms MarkObjects: 0.323759 ms  DeleteObjects: 0.014764 ms)
+

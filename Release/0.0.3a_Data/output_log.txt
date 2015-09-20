@@ -14,16 +14,40 @@ Loading D:\Files\Projects\_Unity\BallJump\Release\0.0.3a_Data\Managed\Assembly-U
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
-UnloadTime: 0.414102 ms
+UnloadTime: 16.810881 ms
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 120.
-Total: 0.939991 ms (FindLiveObjects: 0.019334 ms CreateObjectMapping: 0.017224 ms MarkObjects: 0.165922 ms  DeleteObjects: 0.004921 ms)
+Total: 1.854673 ms (FindLiveObjects: 0.024607 ms CreateObjectMapping: 0.033746 ms MarkObjects: 0.275248 ms  DeleteObjects: 0.011248 ms)
+
+UnloadTime: 0.357857 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 118.
+Total: 0.718176 ms (FindLiveObjects: 0.006679 ms CreateObjectMapping: 0.015818 ms MarkObjects: 0.145533 ms  DeleteObjects: 0.003866 ms)
+
+UnloadTime: 0.285442 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 120.
+Total: 0.527998 ms (FindLiveObjects: 0.005624 ms CreateObjectMapping: 0.013358 ms MarkObjects: 0.110380 ms  DeleteObjects: 0.003163 ms)
+
+UnloadTime: 0.377192 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 118.
+Total: 1.268672 ms (FindLiveObjects: 0.009139 ms CreateObjectMapping: 0.017576 ms MarkObjects: 0.401447 ms  DeleteObjects: 0.010545 ms)
+
+UnloadTime: 0.237986 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 120.
+Total: 0.524834 ms (FindLiveObjects: 0.005624 ms CreateObjectMapping: 0.011248 ms MarkObjects: 0.110380 ms  DeleteObjects: 0.002812 ms)
 
 Platform assembly: D:\Files\Projects\_Unity\BallJump\Release\0.0.3a_Data\Managed\Boo.Lang.dll (this message is harmless)
-UnloadTime: 0.271381 ms
+UnloadTime: 0.350124 ms
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
 Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 243.
-Total: 0.591625 ms (FindLiveObjects: 0.010545 ms CreateObjectMapping: 0.013358 ms MarkObjects: 0.119871 ms  DeleteObjects: 0.043589 ms)
+Total: 1.056700 ms (FindLiveObjects: 0.016521 ms CreateObjectMapping: 0.018631 ms MarkObjects: 0.259780 ms  DeleteObjects: 0.065736 ms)
 
